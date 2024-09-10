@@ -21,7 +21,7 @@ export default function Home() {
     },
     {
       imgSrc: 'https://static1.bigstockphoto.com/5/1/1/large1500/115606073.jpg',
-      title: 'Hostory',
+      title: 'History',
       description: 'Uncovering past events and impacts.',
     },
   ];
